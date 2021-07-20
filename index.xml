@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Jeroen Minderman</title>
+    <link>/</link>
+    <description>Recent content on Dr Jeroen Minderman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>There&amp;rsquo;s nothing here!</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/gmsegames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gmsegames/</guid>
+      <description>“Gamesourcing” data on human decision-making in natural resource management Part of ConFooBio Games have long been a way to help gain insight in how humans may make decisions, particularly in collaborative or uncertain contexts. Work in ConFooBio has highlighted the value of such approaches (here, and here, for example) as well as the fact that videogames, remain relatively underused - despite of their clearly massive potential in this area. At the same time, previous work in ConFooBio developed GMSE, a simulation framework to model the management of natural resources in complex socio-ecological settings.</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/gmsesims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/gmsesims/</guid>
+      <description>Understanding the role of inequality and power imbalance in natural resource management Part of ConFooBio It is often thought that economic and social inequality negatively affects biodiversity conservation; however, few studies have actually tried to investigate or fully understand the nuances of such relationships.
+ In this project, I use GMSE, an individual-based simulation framework and R package developed in ConFooBio, to better understand how inequality between (virtual) actors in a simulated socio-ecological system (in terms of e.</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/modeltools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/modeltools/</guid>
+      <description>Interactive tools for applied natural resource management Part of ConFooBio As part of ConFooBio I have had the opportunity to work on a number of short-term, externally funded, tendered contracts for third parties. Broadly speaking, this work has allowed me to work with stakeholders to develop better ways for non-specialists to interact with complex statistical and/or simulation models;
+For Nature.Scot, we prepared a report aimed at improving predictive models for the management of a population of Greenland barnacle geese on Islay, which, although protected under international regulations, can cause extensive agricultural damage.</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects  Current ConFooBio – modelling conservation conflicts (2016-2022) I currently hold a Research Fellow position in the ConFooBio research group at Stirling University, led by Prof Nils Bunnefeld. This is funded by a Horizon Europe 2020 ERC grant, agreement no. 679651.
+ConFooBio is a multidisplinary team of conservation scientists, social scientists, and modellers, aimed at better understanding conservation conflicts, that is conflicts between global food security and biodiversity conservation. Doing so is particularly important in a world where pressures to make progress towards a range of Sustainable Development Goals (SDGs) are becoming increasingly urgent, even though some of these goals may themselves conflict.</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Publications  I have published in a range of peer-reviewed journals, as well as (co) authored a number of reports and book chapters. In addtion, I have also developed, or played a major role in developing, a number of online interactive apps. I have listed the latter first, as I believe that the interactivity and applied nature of this work is vital, and something I want to focus on.
+I try to keep the list below as comprehensive and current as possible; it is possible that more up-to date records are available on either my Orcid or Google Scholar profiles.</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Data services &amp;amp; consultancy Do you need help with an analysis problem, data management or analysis advice?
+I can provide a range of services in the areas of data science, data management, analysis, modelling and interactive app development, on a freelance/contracting basis. I am happy to discuss both short-term/on-off work as well as potential ongoing services.
+Specific examples/areas include but are not exclusive to:
+    Data analysis, modelling &amp;amp; preparation of reports</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Teaching experience I have extensive teaching experience at a range of levels (from undergraduate lectures to PhD student supervision) and in a range of forms (lectures, workshops, practicals and one-to-one training). I have both prepared new teaching materials as well as covered existing material.
+In addition to this, I have provided extensive help and support to a range of MSc and PhD stundents, particular for data analysis, modelling and technical aspects of a variety of work - this is something I am particularly keen on, and find particularly rewarding.</description>
+    </item>
+    
+    <item>
+      <title>Jeroen Minderman - about</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me   I am a research scientist with over 11 years of experience working in the academic and commercial sectors. My entire career has been characterised by a strong quantitative and analytical element, with recent roles primarily focused on conservation science and ecology. I use statistical- and simulation modelling to analyse (often large) empirical datasets, and have built up extensive experience managing and formatting data for analysis, using tools including R, Python, C/C++, and SQL.</description>
+    </item>
+    
+  </channel>
+</rss>
